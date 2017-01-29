@@ -1,0 +1,22 @@
+{
+  "name": "@jdavmo/twiter-auth",
+  "version": "1.0.0",
+  "description": "An application for leaving notes on Twitter friends and followers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdavmo/twiter-login.git"
+  },
+  "author": "Julian David Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdavmo/twiter-login/issues"
+  },
+  "homepage": "https://github.com/jdavmo/twiter-login#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
