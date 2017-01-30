@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jdavmo/twiter-login#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "async": "^2.1.4",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.14.1",
+    "oauth": "^0.9.14"
   }
 }
